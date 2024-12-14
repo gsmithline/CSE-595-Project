@@ -1,4 +1,4 @@
-# CSE-595-Projet
+# CSE-595-Project
 
 Project for CSE595
 
